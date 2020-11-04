@@ -1,6 +1,6 @@
 # FaunaDB, 11ty and Netlify Bookmarking site
 
-This repository corresponds to an article on creating your very own bookmarking site with the power of FaunaDB, 11ty and Netlify. When the article is published, I'll update with a link.
+This repository corresponds to an article on creating your very own bookmarking site with the power of FaunaDB, 11ty and Netlify by  [Bryan Robinson](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/#comments-bookmarking-application-faunadb-netlify-11ty)
 
 ## Setup
 
